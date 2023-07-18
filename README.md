@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avhishek Poudel
-- 👀 I’m interested in backend web development
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Node js,express ,mysql ,Mongodb,Neo4j,javascript,Redis,rabitmq,docker
 - 📫 How to reach me 
 - avhishekpoudel49@gmail.com
